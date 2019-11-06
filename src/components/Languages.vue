@@ -1,5 +1,7 @@
 <script>
-export default {};
+export default {
+  props: ["languages"]
+};
 </script>
 <template>
   <section class="resume-section language-section mb-5">

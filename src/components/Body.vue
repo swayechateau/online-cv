@@ -7,7 +7,8 @@ export default {
     Skills: () => import("./Skills"),
     Interests: () => import("./Interests"),
     Education: () => import("./Education"),
-    Languages: () => import("./Languages")
+    Languages: () => import("./Languages"),
+    Achievements: () => import("./Achievements")
   }
 };
 </script>
@@ -34,9 +35,9 @@ export default {
         <!--//skills-section-->
         <Education :education="content.education" />
         <!--//education-section-->
-        <!-- <Achievements /> -->
+        <!-- <Achievements :awards="content.awards"/> -->
         <!--//interests-section-->
-        <Languages />
+        <Languages :languages="content.languages" />
         <!--//language-section-->
         <Interests :interests="content.interests" />
         <!--//interests-section-->
