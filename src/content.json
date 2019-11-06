@@ -1,0 +1,208 @@
+{
+  "en": {
+    "header": {
+      "hero": "/assets/images/profile.jpg",
+      "name": "Swaye Chateau",
+      "position": "Full Stack Developer",
+      "email": "swaye@lechateaux.com",
+      "social_links": [
+        {
+          "title": "linkedin.com/in/swayec",
+          "icon": "fab fa-linkedin-in fa-fw",
+          "url": "https://linkedin.com/in/swayec"
+        },
+        {
+          "title": "github.com/swayechateau",
+          "icon": "fab fa-github-alt fa-fw",
+          "url": "https://github.com/swayechateau"
+        },
+        {
+          "title": "stackoverflow.com/users/12294214",
+          "icon": "fab fa-stack-overflow fa-fw",
+          "url": "https://stackoverflow.com/users/12294214"
+        },
+        {
+          "title": "swayechateau.com",
+          "icon": "fas fa-globe",
+          "url": "https://swayechateau.com"
+        }
+      ]
+    },
+    "content": {
+      "summary": {
+        "title": "Carrer Summary",
+        "text": "The first half of Career was split between IT support, Systems Administration and Network Engineering, I have over 10 years experince working with computers including Mac OS, Linux and Windows. My passion has always been and will always be working with computers, the second half of my Career started when I went uni in 2015 and bloomed when I got my first software development contract for Dimension Data. Since then, I have had 3 years experience in business managment and 2 years experince in the field as a software developer."
+      },
+      "experience": {
+        "title": "Work Experience",
+        "jobs": [
+          {
+            "position": "Full Stack Developer",
+            "company": "KiTech Software",
+            "started": "2016",
+            "left": "",
+            "summary": "As the Sole Director and Developer at KiTech Software, my responsibilties were vast, from managing the company to building websites for the company and clients. I have worked with multiple technologise as a result of customer demand or trailing for use within KiTech Software. Due to some NDA's signed I can not go into detail on alot of client projects, but I can on company and residential projects ",
+            "achievements": {
+              "title": "Achievements:",
+              "summary": "",
+              "list": []
+            },
+            "tools": {
+              "title": "Technologies Used:",
+              "list": [
+                "Vue JS / React",
+                "HTML / SASS / JavaScript",
+                "MSSql / Mysql / PostgresSQL",
+                "Grunt / Babel / Webpack",
+                "Jenkins / Gitlab / Mattermost",
+                "Node.js / MongoDB",
+                "Php / Laravel / Lumen",
+                "Pheonix/Elixir",
+                "Electron",
+                "Socket I.O"
+              ]
+            }
+          },
+          {
+            "position": "",
+            "company": "",
+            "started": "",
+            "left": "",
+            "summary": "",
+            "achievements": {
+              "title": "",
+              "summary": "",
+              "list": []
+            }
+          }
+        ]
+      },
+      "skills": {
+        "title": "Skills & Tools",
+        "featured": [
+          {
+            "featured": true,
+            "title": "Frontend",
+            "list": [
+              {
+                "skill": "Vue Js",
+                "mastery": 90
+              },
+              {
+                "skill": "React",
+                "mastery": 90
+              },
+              {
+                "skill": "Javascript",
+                "mastery": 90
+              },
+              {
+                "skill": "HTML/CSS/SASS/LESS/STYLUS",
+                "mastery": 90
+              }
+            ]
+          },
+          {
+            "featured": true,
+            "title": "Backend",
+            "list": [
+              {
+                "skill": "Node.js",
+                "mastery": 90
+              },
+              {
+                "skill": "Python/Django",
+                "mastery": 90
+              },
+              {
+                "skill": "Ruby/Rails",
+                "mastery": 90
+              },
+              {
+                "skill": "Elixir/Pheonix",
+                "mastery": 90
+              },
+              {
+                "skill": "PHP/Laravel/Lumen/WordPress",
+                "mastery": 90
+              }
+            ]
+          }
+        ],
+        "other": {
+          "title": "Other",
+          "list": [
+            "DevOps",
+            "Git",
+            "Gitlab",
+            "Confluence",
+            "BitBucket",
+            "Jira",
+            "Docker",
+            "Jenkins",
+            "Unit Testing",
+            "Slack",
+            "Ms Bot Framework",
+            "Dialog Flow",
+            "Java",
+            "Wireframing",
+            "Electron",
+            "Centos 6/7",
+            "Ubuntu",
+            "Windows 7/8/10"
+          ]
+        }
+      },
+      "education": {
+        "title": "Education",
+        "list": [
+          {
+            "school": "GSM London",
+            "subject": "BSc Computer Science",
+            "started": "2015",
+            "finished": "2017"
+          },
+          {
+            "school": "Harvard University",
+            "subject": "CS50",
+            "started": "2019",
+            "finished": ""
+          }
+        ]
+      },
+      "languages": {
+        "title": "Language",
+        "list": [
+          {
+            "name": "English",
+            "mastery": "native"
+          },
+          {
+            "name": "French",
+            "mastery": "novice"
+          },
+          {
+            "name": "Japanese",
+            "mastery": "novice"
+          },
+          {
+            "name": "Chineses",
+            "mastery": "learning"
+          }
+        ]
+      },
+      "interests": {
+        "title": "Interests",
+        "list": [
+          "Machine Learning",
+          "Business",
+          "Kendo",
+          "Parkour",
+          "Technology",
+          "Finance",
+          "Time Management"
+        ]
+      }
+    }
+  }
+}
