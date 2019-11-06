@@ -31,7 +31,7 @@
     "content": {
       "summary": {
         "title": "Carrer Summary",
-        "text": "The first half of Career was split between IT support, Systems Administration and Network Engineering, I have over 10 years experince working with computers including Mac OS, Linux and Windows. My passion has always been and will always be working with computers, the second half of my Career started when I went uni in 2015 and bloomed when I got my first software development contract for Dimension Data. Since then, I have had 3 years experience in business managment and 2 years experince in the field as a software developer."
+        "text": "The first half of Career was split between IT support, Systems Administration and Network Engineering, I have over 10 years experince working with computers including Mac OS, Linux and Windows. My passion has always been and will always be working with computers, the second half of my Career started when I was enrolled at university in 2015, which sparked my passion for software development."
       },
       "experience": {
         "title": "Work Experience",
@@ -41,11 +41,19 @@
             "company": "KiTech Software",
             "started": "2016",
             "left": "",
-            "summary": "As the Sole Director and Developer at KiTech Software, my responsibilties were vast, from managing the company to building websites for the company and clients. I have worked with multiple technologise as a result of customer demand or trailing for use within KiTech Software. Due to some NDA's signed I can not go into detail on alot of client projects, but I can on company and residential projects ",
+            "summary": "For the first year of KiTech Software, my responsibilties were vast, from managing day to day business to building websites for KiTech Software, Since we received our first software development contract from Dimension Data (now NTT Global) in 2017. I have worked on software projects for clients, earning me 3 years experience in business managment and 2 years experince in the field as a software developer.",
             "achievements": {
               "title": "Achievements:",
-              "summary": "",
-              "list": []
+              "summary": "I have worked with multiple technologise as a result of customer demand or trails for use within KiTech Software. Due to some NDA's signed I can not go into detail on alot of client projects, but I can on company and residential projects.",
+              "list": [
+                "Built a wedding wishlist site for a client using vanillia PHP, HTML, CSS and Javascript",
+                "Built a Company Bot for Skype, Web and MS Teams",
+                "Building an LGBT Business Directory in Laravel and Vue",
+                "Built an admin control panel in Node.js and React",
+                "Built various React websites for residential clients",
+                "Built a messaging microservice with rabbitMQ",
+                "Currently experimenting with Go Lang to build a website to control multiple linux servers via one centralised location"
+              ]
             },
             "tools": {
               "title": "Technologies Used:",
@@ -59,7 +67,8 @@
                 "Php / Laravel / Lumen",
                 "Pheonix/Elixir",
                 "Electron",
-                "Socket I.O"
+                "Socket I.O",
+                "rabbitMQ"
               ]
             }
           },
@@ -72,7 +81,14 @@
             "achievements": {
               "title": "Responsibilities:",
               "summary": "",
-              "list": []
+              "list": [
+                "Responsible for networking, design, installation and maintenance services.",
+                "Supporting users and network administrators over the telephone and by email.",
+                "Maintain the companies’ network infrastructure.",
+                "Networking and providing support for Windows, Macintosh and Linux issues.",
+                "Management of the daily data backup and retrieval scheme.",
+                "TCP/IP networking and hardware maintenance and repair."
+              ]
             }
           },
           {
@@ -80,11 +96,17 @@
             "company": "(Contractor) Rey&Rey",
             "started": "08/2016 ",
             "left": "10/2016 ",
-            "summary": "My job was to help upgrade three schools network system, label up the ports and neaten the RJ45 cables to the switch in the server room, to increase manageability. I was also tasked with keeping an eye on system backup and remedying any irregularities that appeared.",
+            "summary": "2nd line support for Rey&Rey, duties included logging support tickets, checking on first line providing advice and help with their support tickets.",
             "achievements": {
               "title": "Responsibilities:",
               "summary": "",
-              "list": []
+              "list": [
+                "Installing and operating Windows desktop and server operating systems.",
+                "Configuration and testing of any new hardware and software.",
+                "Travelling to client sites to help with installs, deployment, and troubleshooting.",
+                "Training new employees. Assistance with training of staff and compiling procedural documentation. Assisting the network manager with support requests.",
+                "Ensure computer hardware is safe & complies with health and safety legislation."
+              ]
             }
           },
           {
@@ -93,6 +115,25 @@
             "started": "05/2016 ",
             "left": "08/2016 ",
             "summary": "As a Residential Telecoms Engineer for McNicholas, working in partnership on the Virgin Media, I provided broadband, TV and telephone installs and repairs to customers’ homes throughout South London such as Sutton, Epsom, Croydon, Belmont and Kingston Upon Thames, to name a few."
+          },
+          {
+            "position": "2nd Line Support",
+            "company": "(Contractor) INPS",
+            "started": "08/2016 ",
+            "left": "10/2016 ",
+            "summary": "As a support analyst for INPS I provided essential 1st /2nd line support to Vision software users throughout the UK within our SLA targets.",
+            "achievements": {
+              "title": "Responsibilities:",
+              "summary": "",
+              "list": [
+                "Friendly and professional service to customers.",
+                "Resolve customer problems within a timely manner and to a satisfactory conclusion.",
+                "Accurately record and maintain call management system records.",
+                "Keep customers informed of the progress made to resolve their problems.",
+                "roubleshoot Fox pro, Vision and any other software which could be interfering with vision.",
+                "Support windows 7 and XP machines"
+              ]
+            }
           },
           {
             "position": "IT Support Technician",
