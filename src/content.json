@@ -64,22 +64,81 @@
             }
           },
           {
-            "position": "",
-            "company": "",
-            "started": "",
-            "left": "",
-            "summary": "",
+            "position": "Network Engineer",
+            "company": "(Contractor) CoVue",
+            "started": "10/2016 ",
+            "left": "11/2016 ",
+            "summary": "My job was to help upgrade three schools network system, label up the ports and neaten the RJ45 cables to the switch in the server room, to increase manageability. I was also tasked with keeping an eye on system backup and remedying any irregularities that appeared.",
             "achievements": {
-              "title": "",
+              "title": "Responsibilities:",
               "summary": "",
               "list": []
+            }
+          },
+          {
+            "position": "2nd Line Helpdesk Support",
+            "company": "(Contractor) Rey&Rey",
+            "started": "08/2016 ",
+            "left": "10/2016 ",
+            "summary": "My job was to help upgrade three schools network system, label up the ports and neaten the RJ45 cables to the switch in the server room, to increase manageability. I was also tasked with keeping an eye on system backup and remedying any irregularities that appeared.",
+            "achievements": {
+              "title": "Responsibilities:",
+              "summary": "",
+              "list": []
+            }
+          },
+          {
+            "position": "Residential Telecoms Engineer ",
+            "company": "(Contractor) McNicholas",
+            "started": "05/2016 ",
+            "left": "08/2016 ",
+            "summary": "As a Residential Telecoms Engineer for McNicholas, working in partnership on the Virgin Media, I provided broadband, TV and telephone installs and repairs to customers’ homes throughout South London such as Sutton, Epsom, Croydon, Belmont and Kingston Upon Thames, to name a few."
+          },
+          {
+            "position": "IT Support Technician",
+            "company": "(Temporary) Samaritans",
+            "started": "07/2013 ",
+            "left": "12/2014 ",
+            "summary": "As an IT Support assistant I managed anything IT related, such as take list of stock and machine locations. Test and evaluate connect and earmail I have used Linux and windows in order to accomplish my general work tasks.",
+            "achievements": {
+              "title": "Responsibilities:",
+              "summary": "",
+              "list": [
+                "Manage active directory and exchange",
+                "Set up, update and educate users on Audio/Visual equipment.",
+                "Create user friendly guides on how to use applications and hardware.",
+                "Provide remote support to branches regional director’s trustees via phone and Team Viewer.",
+                "Set group policies and local security policies",
+                "Create and image work machine’s (Desktops and Laptops).",
+                "Purchasing and working to budgets",
+                "Project planning"
+              ]
+            }
+          },
+          {
+            "position": "UniFlow Technology Specialist",
+            "company": "(Temporary) Canon UK",
+            "started": "07/2012 ",
+            "left": "01/2013 ",
+            "summary": "As a Technology Specialist I had to provide first/second line incident/problem management for all Canon software solutions to all our contracted customers, Partner channel and internal support personnel.",
+            "achievements": {
+              "title": "Responsibilities:",
+              "summary": "My key responsibilities included:",
+              "list": [
+                "Diagnose and resolve technical software and driver issues",
+                "Log all help desk interactions within Incident management system",
+                "Keep up-to-date with software, system information, changes and updates.",
+                "Utilize and update knowledge base",
+                "Utilize VPN / remote access solutions such as WebEx",
+                "Provide support and update my knowledge on Audio/Visual equipment, Siebel, MFP I-Features, MEAP, iW360, UniFLOW, MPS Software and Utilities and Basic Fiery Controllers."
+              ]
             }
           }
         ]
       },
       "skills": {
         "title": "Skills & Tools",
-        "featured": [
+        "groups": [
           {
             "featured": true,
             "title": "Frontend",
@@ -127,35 +186,45 @@
                 "mastery": 90
               }
             ]
+          },
+          {
+            "featured": false,
+            "title": "Other",
+            "list": [
+              "DevOps",
+              "Git",
+              "Gitlab",
+              "Confluence",
+              "BitBucket",
+              "Jira",
+              "Docker",
+              "Jenkins",
+              "Unit Testing",
+              "Slack",
+              "Ms Bot Framework",
+              "Dialog Flow",
+              "Java",
+              "Wireframing",
+              "Electron",
+              "Centos 6/7",
+              "Ubuntu",
+              "Windows 7/8/10"
+            ]
           }
-        ],
-        "other": {
-          "title": "Other",
-          "list": [
-            "DevOps",
-            "Git",
-            "Gitlab",
-            "Confluence",
-            "BitBucket",
-            "Jira",
-            "Docker",
-            "Jenkins",
-            "Unit Testing",
-            "Slack",
-            "Ms Bot Framework",
-            "Dialog Flow",
-            "Java",
-            "Wireframing",
-            "Electron",
-            "Centos 6/7",
-            "Ubuntu",
-            "Windows 7/8/10"
-          ]
-        }
+        ]
+      },
+      "awards": {
+        "title": "Awards",
+        "list": [
+          {
+            "name": "",
+            "descriptiom": ""
+          }
+        ]
       },
       "education": {
         "title": "Education",
-        "list": [
+        "qualifications": [
           {
             "school": "GSM London",
             "subject": "BSc Computer Science",
